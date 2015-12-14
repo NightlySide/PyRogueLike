@@ -1,0 +1,6 @@
+<Entities>
+  <Entity>
+    <name>Cow</name>
+    <position x="8" y="14" />
+  </Entity>
+</Entities>

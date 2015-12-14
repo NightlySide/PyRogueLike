@@ -1,0 +1,17 @@
+{
+  "chest" : {
+    "position" : {
+      "x" : "10",
+      "y" : "10"
+    },
+    "size" : "4",
+    "items" : {
+      "Epee" : {
+        "name" : "Epee de la mort qui tu ta mère",
+        "damage" : "40",
+        "type" : "weapon",
+        "description" : "L'histoire de cette épée est longue CMB!"
+      }
+    }
+  }
+}
